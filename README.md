@@ -1,1 +1,1 @@
-# mobile_wallet
+# veridid_mobile
